@@ -72,6 +72,12 @@ ${data.contributing}
 ${data.tests}
 
 ${licenseSection}
+
+## Questions
+For any questions, please contact me on GitHub or by email:
+
+[GitHub](https://github.com/${data.username})
+[Email](${data.email})
 `;
 }
 
