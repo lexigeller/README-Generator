@@ -10,6 +10,12 @@ const questions = [
         message: 'Please enter the title of your project.',
       },
       {
+        type: 'list',
+        name: 'license',
+        message: 'Please select a license for your project.',
+        choices: ['MIT', 'Apache 2.0', 'GPL 3.0', 'None'],
+      },
+      {
         type: 'input',
         name: 'description',
         message: 'Please enter a description of your project.',
