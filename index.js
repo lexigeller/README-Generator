@@ -22,11 +22,6 @@ const questions = [
       },
       {
         type: 'input',
-        name: 'toc',
-        message: 'Please add a table of contents for your project.',
-      },
-      {
-        type: 'input',
         name: 'installation',
         message: 'Please provide the steps required to install your project.',
       },
