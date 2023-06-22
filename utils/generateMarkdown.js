@@ -54,11 +54,17 @@ ${data.description}
 ## Table of Contents
 
 [Description](#description)
+
 [Installation](#installation)
+
 [Usage](#usage)
+
 [License](#license)
+
 [Contributing](#contributing)
+
 [Tests](#tests)
+
 [Questions](#questions)
 
 ## Installation
@@ -83,6 +89,7 @@ ${licenseSection}
 For any questions, please contact me on GitHub or by email:
 
 [GitHub](https://github.com/${data.username})
+
 [Email](${data.email})
 `;
 }
