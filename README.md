@@ -12,7 +12,7 @@ N/A
 
 To generate a README, open the application in the terminal. Use node.js to run the application. Follow the prompts to add relevant information and generate your README.
 
-![View a demo of the application here](https://drive.google.com/file/d/13V5ZwtubRC5C_gMmXWTagsQEvBDyovdW/view?usp=sharing)
+[View a demo of the application here](https://drive.google.com/file/d/13V5ZwtubRC5C_gMmXWTagsQEvBDyovdW/view?usp=sharing/)
 
 ## Credits
 
