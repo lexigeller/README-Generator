@@ -1,50 +1,23 @@
-# ewair
-
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+# README Generate
 
 ## Description
 
-aer
-
-## Table of Contents
-
-[Description](#description)
-
-[Installation](#installation)
-
-[Usage](#usage)
-
-[License](#license)
-
-[Contributing](#contributing)
-
-[Tests](#tests)
-
-[Questions](#questions)
+A simple app for generating a professional README.
 
 ## Installation
 
-aer
+N/A
 
 ## Usage
 
-ear
+To generate a README, open the application in the terminal. Use node.js to run the application. Follow the prompts to add relevant information and generate your README.
 
-## Contributing
+![View a demo of the application here](https://drive.google.com/file/d/13V5ZwtubRC5C_gMmXWTagsQEvBDyovdW/view?usp=sharing)
 
-htry
+## Credits
 
-## Tests
-
-aekre
+N/A
 
 ## License
 
-This project is licensed under the [MIT](https://opensource.org/licenses/MIT) license.
-
-## Questions
-For any questions, please contact me on GitHub or by email:
-
-[GitHub](https://github.com/meaorm)
-
-[Email](aelrje)
+Please refer to the LICENSE in the repo.
